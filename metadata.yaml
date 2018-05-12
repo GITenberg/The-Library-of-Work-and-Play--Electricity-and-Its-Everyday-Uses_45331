@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43222'
     url: http://www.gutenberg.org/2009/agents/43222
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45331#The-Library-of-Work-and-Play--Electricity-and-Its-Everyday-Uses
 gutenberg_issued: '2014-04-06'
 gutenberg_type: Text
 identifiers:
