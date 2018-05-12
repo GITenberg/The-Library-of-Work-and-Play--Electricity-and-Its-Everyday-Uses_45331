@@ -1,0 +1,27 @@
+_repo: The-Library-of-Work-and-Play--Electricity-and-Its-Everyday-Uses_45331
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45331-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Woodhull, John F. (John Francis)
+    birthdate: 1857
+    deathdate: 1941
+    gutenberg_agent_id: '43222'
+    url: http://www.gutenberg.org/2009/agents/43222
+description: ''
+gutenberg_issued: '2014-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45331'
+  lccn: '11018474'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Electricity -- Juvenile literature'
+- !lcc 'TK'
+title: 'The Library of Work and Play: Electricity and Its Everyday Uses'
+url: http://www.gutenberg.org/ebooks/45331
